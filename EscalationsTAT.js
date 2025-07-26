@@ -9,7 +9,7 @@
 // function main() { ... }
 
 const ASANA_TOKEN = 'Bearer YOUR_ASANA_PAT_HERE';
-const PROJECT_ID = '1210434131193195';
+const PROJECT_ID = 'YOUR_ASANA_PROJECT_ID'; // <-- updated placeholder
 const DURATION_FIELD_GID = 'YOUR_ESCALATIONS_TAT_FIELD_GID_HERE'; // e.g., '12001234567890'
 
 function calculateDurationForCompletedTasks() {

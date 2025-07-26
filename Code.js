@@ -9,8 +9,8 @@
 // function main() { ... }
 
 const COPPER_API_KEY = 'YOUR_COPPER_API_KEY';
-const COPPER_Pipeline_ID = '1000993';
-const COPPER_EMAIL = 'your@email.com';  // Copper login email
+const COPPER_Pipeline_ID = 'YOUR_COPPER_PIPELINE_ID'; // <-- updated placeholder
+const COPPER_EMAIL = 'YOUR_COPPER_EMAIL';  // <-- updated placeholder
 const ASANA_PAT = 'YOUR_ASANA_ACCESS_TOKEN';
 const ASANA_PROJECT_ID = 'YOUR_ASANA_PROJECT_ID';
 
